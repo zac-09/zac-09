@@ -3,7 +3,7 @@
 # Hi there 👋,
 
 
-I'm Isaac from Uganda, and I most do mobile application development using react-native and backend web design and implementation with tecnologies like nodejs with express, flask,php. I really enjoy learning langugages and frameworks like react as well as working in flutter and mobile UI, Ux design in generalyour profile.
+I'm Isaac from Uganda, and I most do mobile application development using react-native and backend web design and implementation with technologies like nodejs with express, flask,php. I really enjoy learning langugages and frameworks like react as well as working in flutter and mobile UI, Ux design
 
 **Languages and Tools:** 
   <br />
@@ -25,7 +25,7 @@ I'm Isaac from Uganda, and I most do mobile application development using react-
     
      
 
-- 🔭 I’m currently working on for codeBits Uganda 
+
 - 🌱 I’m currently learning flutter and deep learning 
 - 💬 Ask me about anything  
 - 📫 How to reach me: email me @isaacmubiru99@gmail.com 
