@@ -25,13 +25,6 @@ Backend-leaning full-stack engineer with 5+ years building and migrating product
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,reactnative,python,firebase,gcp,kafka,docker,kubernetes,mongodb,postgres,git,linux&perline=8" alt="tech stack" />
 </p>
 
-### 📊 GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zac-09&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zac-09&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-</p>
-
 ### 🤝 Connect
 
 <p>
