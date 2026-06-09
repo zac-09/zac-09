@@ -1,41 +1,40 @@
+<h1 align="center">Hi, I'm Isaac Mubiru 👋</h1>
 
-![I am GitHub read me generator creator](https://github.com/zac-09/zac-09/blob/master/isaac%20mubiru.png)
-# Hey What's up 👋,
+<p align="center">
+  <b>Senior Software Engineer</b> · Backend &amp; Full-Stack · Node.js / TypeScript<br/>
+  📍 Kampala, Uganda (UTC+3) · 🌍 Remote-first
+</p>
 
+<p align="center">
+  <i>Open to senior backend / full-stack roles — globally remote.</i>
+</p>
 
-I'm Isaac from Uganda, and I most do mobile application development using react-native and backend web design and implementation with technologies like nodejs with express, flask,php. I really enjoy learning langugages and frameworks like react as well as working in flutter and mobile UI, Ux design
+---
 
-**Languages and Tools:** 
-  <br />
+Backend-leaning full-stack engineer with 5+ years building and migrating production systems for fully-remote teams across the US, Singapore, and Uganda. I'm drawn to the unglamorous, high-stakes work — zero-downtime migrations, real-time data sync, and event-driven services — keeping live systems correct while they change underneath me.
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-     <br />
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-     
-     
-    
-     
+- 🔭 **Recent work** — led the **zero-downtime migration of 20+ production apps** from Parse/MongoDB → Firebase/GCP, with real-time two-way sync over Google Pub/Sub.
+- ⚙️ **I build with** — Node.js, TypeScript, React, Firebase/GCP, Apache Kafka, Docker, Kubernetes, gRPC, MongoDB.
+- 🧠 **Into** — distributed systems, data integrity, developer tooling, and applied AI.
+- 💬 **Ask me about** — live data migrations, event-driven architecture, and building for unreliable networks.
+- 📫 **Reach me** — isaacmubiru99@gmail.com
 
+### 🛠️ Tech
 
-- 🌱 I’m currently learning flutter and deep learning 
-- 💬 Ask me about anything  
-- 📫 How to reach me: email me @isaacmubiru99@gmail.com 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,reactnative,python,firebase,gcp,kafka,docker,kubernetes,mongodb,postgres,git,linux&perline=8" alt="tech stack" />
+</p>
 
+### 📊 GitHub
 
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zac-09&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zac-09&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+</p>
 
+### 🤝 Connect
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zac-09&show_icons=true)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zac-09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/IsaacMubiru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/isaacmmarvin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/isaacmmarvin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13431716)  
-
-
+<p>
+  <a href="https://www.linkedin.com/in/isaac-mubiru-3bb728174"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:isaacmubiru99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
