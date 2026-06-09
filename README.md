@@ -14,7 +14,7 @@
 Backend-leaning full-stack engineer with 6+ years building and migrating production systems for fully-remote teams across the US, Singapore, and Uganda. I'm drawn to the unglamorous, high-stakes work — zero-downtime migrations, real-time data sync, and event-driven services — keeping live systems correct while they change underneath me.
 
 - 🔭 **Recent work** — led the **zero-downtime migration of 20+ production apps** from Parse/MongoDB → Firebase/GCP, with real-time two-way sync over Google Pub/Sub.
-- ⚙️ **I build with** — Node.js, TypeScript, React, Firebase/GCP, Apache Kafka, Docker, Kubernetes, gRPC, MongoDB.
+- ⚙️ **I build with** — Node.js, TypeScript, Python, React, Firebase/GCP, Apache Kafka, Docker, Kubernetes, gRPC, MongoDB.
 - 🧠 **Into** — distributed systems, data integrity, developer tooling, and applied AI.
 - 💬 **Ask me about** — live data migrations, event-driven architecture, and building for unreliable networks.
 - 📫 **Reach me** — isaacmubiru99@gmail.com
