@@ -11,7 +11,7 @@
 
 ---
 
-Backend-leaning full-stack engineer with 5+ years building and migrating production systems for fully-remote teams across the US, Singapore, and Uganda. I'm drawn to the unglamorous, high-stakes work — zero-downtime migrations, real-time data sync, and event-driven services — keeping live systems correct while they change underneath me.
+Backend-leaning full-stack engineer with 6+ years building and migrating production systems for fully-remote teams across the US, Singapore, and Uganda. I'm drawn to the unglamorous, high-stakes work — zero-downtime migrations, real-time data sync, and event-driven services — keeping live systems correct while they change underneath me.
 
 - 🔭 **Recent work** — led the **zero-downtime migration of 20+ production apps** from Parse/MongoDB → Firebase/GCP, with real-time two-way sync over Google Pub/Sub.
 - ⚙️ **I build with** — Node.js, TypeScript, React, Firebase/GCP, Apache Kafka, Docker, Kubernetes, gRPC, MongoDB.
